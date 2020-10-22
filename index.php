@@ -59,7 +59,7 @@
   <main>
 
     <br />
-    <img src="../lib18/images/logo-upp-15.jpg" class="rounded mx-auto d-block" alt="UPPachuca">
+    <!--<img src="../lib18/images/logo-upp-15.jpg" class="rounded mx-auto d-block" alt="UPPachuca">-->
     <h1 class="text-center">Universidad Politécnica de Pachuca</h1>
     <br />
     <h2 class="text-center">Dr. Marco Antonio Flores González</h2>
@@ -75,9 +75,7 @@
     <br />
     <br />
     <h2 class="text-center">L.S.C. Francisco Moreno Vargas<br />
-    Ruth Noemí Hernández Mora<br />
-    Omar Alfredo Ortega Ramírez<br />
-    Miguel Angel Acosta Tristan</h2>
+    Marco Antonio Rosas Barcenas<br />
     <p class="text-center">Programación y desarrollo</p>
     <br />
     <br />
