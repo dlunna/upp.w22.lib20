@@ -30,7 +30,9 @@
         <p><a href="http://www.upp.edu.mx/inventario/">Inventario</a><br /></p>
         <p><a href="http://www.upp.edu.mx/leygralcontabilidad/">Ley General de Contabilidad Gubernamental</a></p>
         <p><a href="http://www.upp.edu.mx/compras">Licitaciones e Invitaciones</a></p>
+        <p><a href="http://www.upp.edu.mx/mecasup/">MECASUP</a></p>
         <p><a href="http://www.upp.edu.mx/normatividad/">Normatividad</a></p>
+
     </div>
     <div class="col-md-2">
       <h2>Centros</h2>
