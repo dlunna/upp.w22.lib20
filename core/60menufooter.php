@@ -57,7 +57,7 @@
         <p><a href="http://www.upp.edu.mx/adistancia/">Educación a Distancia</a></p>
         <p><a href="http://www.upp.edu.mx/internacionalizacion/">Internacionalización</a></p>
         <p><a href="http://www.upp.edu.mx/serviciosescolares/">Servicios Escolares</a></p>
-        <p><a href="http://site.upp.edu.mx">TIC's</a></p>
+        <p><a href="http://www.upp.edu.mx/site/">TIC's</a></p>
     </div>
     <div class="col-md-2">
       <h2>Oferta Educativa</h2>
