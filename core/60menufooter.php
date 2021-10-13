@@ -17,7 +17,7 @@
         <p><a href="http://www.upp.edu.mx/becas/">Becas</a></p>
         <p><a href="https://sii.upp.edu.mx">Sistema de Gestión de la Calidad</a></p>
         <p><a href="http://www.upp.edu.mx/transparencia/">Transparencia</a></p>
-        <p><a href="https://drive.google.com/drive/folders/0B1hmxg8QtxfYM3pIOHhodXNCWWs">Indicadores de Desempeño</a></p>
+        <p><a href="http://www.upp.edu.mx/indicadores_de_desempenno/">Indicadores de Desempeño</a></p>
         <p><a href="http://www.upp.edu.mx/institucion/#ubicacion">Ubicación</a></p>
     </div>
     <div class="col-md-2">
