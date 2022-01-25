@@ -32,6 +32,8 @@
         <p><a href="http://www.upp.edu.mx/compras">Licitaciones e Invitaciones</a></p>
         <p><a href="http://www.upp.edu.mx/mecasup/">MECASUP</a></p>
         <p><a href="http://www.upp.edu.mx/normatividad/">Normatividad</a></p>
+        <p><a href="https://www.upp.edu.mx/poa-dgutyp/">POA DGUTyP</a></p>
+
 
     </div>
     <div class="col-md-2">
