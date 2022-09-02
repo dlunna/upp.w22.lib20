@@ -6240,7 +6240,8 @@
             title: "Ir a la p\xe1gina inicial"
           }, u.a.createElement("img", {
             alt: "Hidalgo Gob MX",
-            src: "http://cdn.hidalgo.gob.mx/logo_gobhidalgo.svg"
+/*            src: "http://cdn.hidalgo.gob.mx/logo_gobhidalgo.svg"*/
+            src: "../lib20/hgo/logo_gobhidalgo.png"
           })), u.a.createElement("button", {
             className: "navbar-toggler custom-toggler",
             type: "button",
@@ -6284,7 +6285,8 @@
             className: "nav-item active li-hero"
           }, u.a.createElement("img", {
             className: "Menu-img",
-            src: "http://cdn.hidalgo.gob.mx/logo_gobhidalgo.svg"
+/*            src: "http://cdn.hidalgo.gob.mx/logo_gobhidalgo.svg"*/
+            src: "../lib20/hgo/logo_gobhidalgo.png"
           }), u.a.createElement("a", null, u.a.createElement("svg", {
             onClick: function() {
               e.refs.menuMobile.style.display = "none"
