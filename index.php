@@ -15,7 +15,7 @@
   gtag('config', 'G-27RJ656WRN');
 </script>
   <?php
-    
+
     include ('../lib20/core/10cabecera.html');
     include ('../lib20/core/20estilos.html');
     include ('../lib20/hgo/zoram_style_header.html');
@@ -43,12 +43,8 @@
 
       <h1 class="text-center">Universidad Politécnica de Pachuca</h1>
       <br />
-      <h2 class="text-center">Dr. Marco Antonio Flores González</h2>
+      <h2 class="text-center">Dr. Francisco Marroquín Gutiérrez</h2>
       <p class="text-center">Rector de la Universidad Politécnica de Pachuca</p>
-      <br />
-      <br />
-      <h2 class="text-center">Ing. Jorge Alfredo Fernández Salas</h2>
-      <p class="text-center">Secretário Administrativo</p>
       <br />
       <br />
       <h2 class="text-center">M.T.I. David Luna Cruz</h2>
