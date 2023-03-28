@@ -18,6 +18,7 @@
         <p><a href="https://sii.upp.edu.mx">Sistema de Gestión de la Calidad</a></p>
         <p><a href="http://www.upp.edu.mx/transparencia/">Transparencia</a></p>
         <p><a href="http://www.upp.edu.mx/indicadores_de_desempenno/">Indicadores de Desempeño</a></p>
+        <p><a href="http://www.upp.edu.mx/bancodedatosestadisticos/">Banco de datos estadisticos</a></p>
         <p><a href="http://www.upp.edu.mx/institucion/#ubicacion">Ubicación</a></p>
     </div>
     <div class="col-md-2">
@@ -55,7 +56,7 @@
       <h3>Departamentos</h3>
       <hr />
         <p><a href="http://www.upp.edu.mx/atencion_y_promocion_de_la_salud/">Atención y Promoción a la Salud</a></p>
-        <p><a href="../lib18/proximamente.php">Cultura</a></p>
+        <!--<p><a href="../lib18/proximamente.php">Cultura</a></p>-->
         <p><a href="http://www.upp.edu.mx/adistancia/">Educación a Distancia</a></p>
         <p><a href="http://www.upp.edu.mx/internacionalizacion/">Internacionalización</a></p>
         <p><a href="http://www.upp.edu.mx/serviciosescolares/">Servicios Escolares</a></p>
