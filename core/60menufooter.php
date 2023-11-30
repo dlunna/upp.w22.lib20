@@ -12,7 +12,7 @@
         <p><a href="http://www.upp.edu.mx/institucion/#rector">Rector</a></p>
         <p><a href="http://www.upp.edu.mx/institucion/#modelo">Modelo Educativo</a></p>
         <p><a href="http://www.upp.edu.mx/institucion/#nuestros-compromisos">Nuestros Compromisos</a></p>
-        <p><a href="http://www.upp.edu.mx/institucion/#cero-tolerancia">Cero Tolerancia</a></p>
+        <p><a href="http://www.upp.edu.mx/cerotolerancia">Unidad institucional para la igualdad entre mujeres y hombres</a></p>
         <p><a href="http://www.upp.edu.mx/main/#calendario">Calendario Académico</a></p>
         <p><a href="http://www.upp.edu.mx/becas/">Becas</a></p>
         <p><a href="https://sii.upp.edu.mx">Sistema de Gestión de la Calidad</a></p>
