@@ -56,7 +56,7 @@
       <h3>Departamentos</h3>
       <hr />
         <p><a href="http://www.upp.edu.mx/atencion_y_promocion_de_la_salud/">Atención y Promoción a la Salud</a></p>
-        <p><a href="http://www.upp.edu.mx/culturaydeportes/">Cultura y Deportes</a></p>-->
+        <p><a href="http://www.upp.edu.mx/culturaydeportes/">Cultura y Deportes</a></p>
         <p><a href="http://www.upp.edu.mx/adistancia/">Educación a Distancia</a></p>
         <p><a href="http://www.upp.edu.mx/internacionalizacion/">Internacionalización</a></p>
         <p><a href="http://www.upp.edu.mx/serviciosescolares/">Servicios Escolares</a></p>
