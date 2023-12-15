@@ -41,7 +41,7 @@
       <h2>Centros</h2>
       <hr />
         <p><a href="http://www.upp.edu.mx/cal/">Centro de Lenguas</a></p>
-        <p><a href="http://www.upp.edu.mx/plata/">Polideportivo Plata</a></p>
+        <!--<p><a href="http://www.upp.edu.mx/plata/">Polideportivo Plata</a></p>-->
         <p><a href="http://www.upp.edu.mx/ceetupp/">Equinoterapia CEETUPP</a></p>
         <p><a href="http://www.upp.edu.mx/biblioteca/">Investigación Bibliográfica</a></p>
         <p><a href="http://www.upp.edu.mx/patentamiento/">Patentamiento</a></p>
@@ -56,7 +56,7 @@
       <h3>Departamentos</h3>
       <hr />
         <p><a href="http://www.upp.edu.mx/atencion_y_promocion_de_la_salud/">Atención y Promoción a la Salud</a></p>
-        <!--<p><a href="../lib18/proximamente.php">Cultura</a></p>-->
+        <p><a href="http://www.upp.edu.mx/culturaydeportes/">Cultura y Deportes</a></p>-->
         <p><a href="http://www.upp.edu.mx/adistancia/">Educación a Distancia</a></p>
         <p><a href="http://www.upp.edu.mx/internacionalizacion/">Internacionalización</a></p>
         <p><a href="http://www.upp.edu.mx/serviciosescolares/">Servicios Escolares</a></p>
