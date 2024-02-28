@@ -1,0 +1,42 @@
+
+/*NavVeda*/
+.navVeda {
+    background-color: #d5d5d5;
+}
+
+.colLetraVeda {
+    color: #59595a;
+}
+.navIconVeda{
+    padding-right: 15px;
+}
+/*NavVeda*/
+
+
+
+
+/* FooterVeda*/
+.footerVeda {
+    background-color: #d5d5d5;
+}
+
+.colLetraVedaTxT {
+    color: #59595a;
+    text-align: right;
+    padding-top: 15px;
+}
+
+.colLetraVedaTxT2 {
+    color: #59595a;
+}
+
+section {
+    padding: 20px 0;
+}
+
+#footer {
+    background: #d5d5d5 !important;
+}
+/* FooterVeda*/
+
+
