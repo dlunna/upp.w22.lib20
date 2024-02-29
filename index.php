@@ -15,11 +15,11 @@
   gtag('config', 'G-27RJ656WRN');
 </script>
   <?php
-
     include ('../lib20/core/10cabecera.html');
     include ('../lib20/core/20estilos.html');
-    include ('../lib20/hgo/zoram_style_header.html');
+    //include ('../lib20/hgo/zoram_style_header.html');
   ?>
+  <?php include ('../lib20/hgo/veda_navbar.html'); ?>
 </head>
 
 <body>
@@ -72,12 +72,13 @@
   <footer>
     <!-- footer de gobierno del estado -->
     <?php //include ('../lib20/seph/hf/footer.html'); ?>
-    <?php include ('../lib20/hgo/footer.html'); ?>
+    <?php //include ('../lib20/hgo/footer.html'); ?>
+    <?php include ('../lib20/hgo/veda_footer.html'); ?>
   </footer>
 
   <?php
     include ('../lib20/core/80js.html');
-    include ('../lib20/hgo/zoram_js_footer.html');
+    //include ('../lib20/hgo/zoram_js_footer.html');
   ?>
 
   <!-- Script para dar la animacion al boton flotante que lleva arriba
